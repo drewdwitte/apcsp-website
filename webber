@@ -3,8 +3,14 @@
 <head>
 <title>My Website</title>
 </head>
+
 <body>
 
-<h1>Me</h1>
+<h1> Welcome to Drew's Website</h1>
+<p> my name is Drew, and I am a senior at CCA.</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Anguidae.jpg" 
+alt="Selfie" style="width:700px;height:523px;">
 
-
+<p>Click this link to see the linux command sheet</p>
+</body>
+</html>
